@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Shipping]
+(
+	[ShipMode] VARCHAR(100) NOT NULL PRIMARY KEY
+)

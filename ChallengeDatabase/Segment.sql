@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Segment]
+(
+	[SegID] INT NOT NULL PRIMARY KEY,
+	[SegName] VARCHAR(100) NOT NULL
+)
